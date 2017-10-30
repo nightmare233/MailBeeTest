@@ -1,0 +1,11 @@
+F:\TestMailBee\TestMailBee\bin\Debug\TestMailBee.exe.config
+F:\TestMailBee\TestMailBee\bin\Debug\TestMailBee.exe
+F:\TestMailBee\TestMailBee\bin\Debug\TestMailBee.pdb
+F:\TestMailBee\TestMailBee\bin\Debug\MailBee.NET.dll
+F:\TestMailBee\TestMailBee\bin\Debug\MailBee.NET.xml
+F:\TestMailBee\TestMailBee\obj\Debug\TestMailBee.csproj.CoreCompileInputs.cache
+F:\TestMailBee\TestMailBee\obj\Debug\TestMailBee.exe
+F:\TestMailBee\TestMailBee\obj\Debug\TestMailBee.pdb
+F:\TestMailBee\TestMailBee\bin\Debug\log4net.dll
+F:\TestMailBee\TestMailBee\bin\Debug\log4net.xml
+F:\TestMailBee\TestMailBee\obj\Debug\TestMailBee.csprojResolveAssemblyReference.cache

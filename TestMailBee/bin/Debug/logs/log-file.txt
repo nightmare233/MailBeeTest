@@ -1,0 +1,3 @@
+[Header] 2017-10-30 14:39:12,797 [1] DEBUG testApp.Logging [(null)]  - GetLastMail:
+[Footer] [Header] [Footer] [Header] 2017-10-30 14:42:05,917 [1] INFO  testApp.Logging [(null)]  - GetLastMail:****************************************
+[Footer] 
